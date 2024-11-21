@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# files
+test.ipynb
+data/full.csv
+data/option_greeks.csv
+data/option_prices.csv
+data/option_greeks_raw
